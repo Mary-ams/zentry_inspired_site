@@ -10,7 +10,7 @@ This project is a Zentry-inspired website built with React and Vite. It features
 - Responsive design with Tailwind CSS
 - Custom fonts and icons
 
-## Technologies
+## Technologies Used
 - React
 - Vite
 - GSAP
